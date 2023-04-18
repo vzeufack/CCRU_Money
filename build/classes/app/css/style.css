@@ -1,0 +1,30 @@
+.button
+{
+    -fx-background-color: #fcfcfe;
+    -fx-text-fill: #0d0e12;
+}
+.button:hover
+{
+    -fx-background-color: #83c1e8
+}
+
+.button:pressed
+{
+    -fx-background-color: #9AC4E5
+}
+
+.keybutton
+{
+    -fx-background-color: #83c1e8;
+    -fx-text-fill: #fcfcfe
+}
+
+.keybutton:hover
+{
+    -fx-background-color: #9AC4E5
+}
+
+.keybutton:pressed
+{
+    -fx-background-color: #83c1e8
+}

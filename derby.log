@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 14 21:05:27 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0187-8272-15b9-0000066f8d50 
+on database directory G:\Studies\Programmation\CCRU\CCRU Money\app\db\ccrumoney with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/G:/Studies/Programmation/CCRU/CCRU%20Money/app/dist/run1533678516/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=G:\Studies\Programmation\CCRU\CCRU Money\app
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
